@@ -1,0 +1,11 @@
+C:\Users\Javier85\Desktop\ProyFinJBarboza\bin\Debug\netcoreapp2.1\ProyFinJBarboza.deps.json
+C:\Users\Javier85\Desktop\ProyFinJBarboza\bin\Debug\netcoreapp2.1\ProyFinJBarboza.runtimeconfig.json
+C:\Users\Javier85\Desktop\ProyFinJBarboza\bin\Debug\netcoreapp2.1\ProyFinJBarboza.runtimeconfig.dev.json
+C:\Users\Javier85\Desktop\ProyFinJBarboza\bin\Debug\netcoreapp2.1\ProyFinJBarboza.dll
+C:\Users\Javier85\Desktop\ProyFinJBarboza\bin\Debug\netcoreapp2.1\ProyFinJBarboza.pdb
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.csprojAssemblyReference.cache
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.csproj.CoreCompileInputs.cache
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.AssemblyInfoInputs.cache
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.AssemblyInfo.cs
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.dll
+C:\Users\Javier85\Desktop\ProyFinJBarboza\obj\Debug\netcoreapp2.1\ProyFinJBarboza.pdb
