@@ -30,10 +30,7 @@ namespace ProyFinJBarboza
                         Medico.setId(id);
                         Medico.setNombre(nombre, apellido);
                         Medico.setDni(dni);
-                        // Console.WriteLine(reader["id_Medico"].ToString());
-                        // Console.WriteLine(reader["nombre"].ToString());
-                        // Console.WriteLine(reader["apellido"].ToString());
-                        // Console.WriteLine(reader["dni"].ToString());
+                        
                     }
                 }
                 conexion.Dispose();
@@ -56,7 +53,7 @@ namespace ProyFinJBarboza
                     while (reader.Read())
                     {
                         Medico Medico = new Medico();
-                        int id = int.Parse(reader["id_Medico"].ToString());
+                        int id = int.Parse(reader["id_Medicos"].ToString());
                         string nombre = reader["nombre"].ToString();
                         string apellido = reader["apellido"].ToString();
                         int dni = int.Parse(reader["dni"].ToString());
@@ -74,9 +71,6 @@ namespace ProyFinJBarboza
             }
 
         }
-
-
-
 
     }
 }
